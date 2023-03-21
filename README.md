@@ -21,7 +21,7 @@ This is a solution to the [QR code component](https://www.frontendmentor.io/chal
 
 ### Screenshot
 
-![](screenshot.png)
+![](.screenshot.png)
 
 
 ### Links
