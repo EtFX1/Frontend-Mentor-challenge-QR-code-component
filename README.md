@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge](https://www.frontendment
 ### Links
 
 - [Solution URL](https://github.com/EtFX1/Frontend-Mentor-challenge-QR-code-component)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://etfx1.github.io/Frontend-Mentor-challenge-QR-code-component/)
 
 
 ### Built with
