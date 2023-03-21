@@ -8,14 +8,14 @@ body {
   margin: 0 auto;
   text-align: center;
   margin-top: 20vh;
-  max-width: 16.875rem;
+  max-width: 15rem;
 }
 
 /* ?card */
 
 .card {
   border-radius: 0.625rem;
-  padding: 4%;
+  padding: 5%;
   background-color: hsl(0, 0%, 100%);
   max-width: 100%;
   font-family: "Outfit", sans-serif;
@@ -30,6 +30,7 @@ body {
 
 .heading {
   color: hsl(218, 44%, 22%);
+  font-size: 1.125rem;
 }
 
 .paragraph {
