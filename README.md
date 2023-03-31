@@ -53,7 +53,6 @@ I am currently learning bootstrap 5, and I'd like to refine my skills using the 
 
 ## Author
 
-- Website - [Ethan Obott](https://www.your-site.com)
 - Frontend Mentor - [@EtFX1](https://www.frontendmentor.io/profile/EtFX1)
 - GitHub - [@EtFX1](https://github.com/EtFX1)
 
